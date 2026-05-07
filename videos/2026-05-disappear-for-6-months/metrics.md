@@ -5,6 +5,7 @@
 - Video title: Disappear for 6 Months and Rebuild Yourself | Cinematic Motivation
 - Published date:
 - URL:
+- Google Drive asset folder: BUILT IN SILENCE/projects/2026-05-disappear-for-6-months/
 - Theme: Ghost Mode / Discipline
 - Length: Target 4:25
 - Thumbnail text: GO GHOST

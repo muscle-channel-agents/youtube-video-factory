@@ -81,11 +81,11 @@ Avoid committing:
 - Temporary renders
 - Downloaded reference videos
 
-## Option B: OneDrive
+## Option B: Google Drive
 
 Best for moving assets between PCs without thinking too much.
 
-Use OneDrive for:
+Use Google Drive for:
 
 - AI-generated images
 - AI-generated video clips
@@ -93,17 +93,19 @@ Use OneDrive for:
 - BGM candidates
 - Exported review videos
 
-If OneDrive becomes slow, split heavy assets into a separate synced folder:
+Use only this dedicated Google Drive folder as the asset root:
 
 ```text
-YouTube Assets/
-  images/
-  video-clips/
-  audio/
-  exports/
+BUILT IN SILENCE/
 ```
 
-Then reference those paths in each video's production files.
+Folder URL:
+
+```text
+https://drive.google.com/drive/folders/1OpDIl2gCR_LmanNK1Z_pJvG-Jhtnnr1l
+```
+
+Then reference project folders under that root in each video's production files.
 
 ## Recommended Folder Layout
 
@@ -218,6 +220,5 @@ Keep prompts, scripts, and scene boards in Git. Keep heavy assets in OneDrive or
 ## Best Practice
 
 Use the repository as the brain.
-Use OneDrive or another cloud folder as the asset warehouse.
+Use the dedicated Google Drive folder as the asset warehouse.
 Use Codex on either PC to continue from the same production files.
-

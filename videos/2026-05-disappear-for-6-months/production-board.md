@@ -45,8 +45,11 @@ videos/2026-05-disappear-for-6-months/
 ## Google Drive Asset Folder
 
 ```text
-YouTube Factory/projects/2026-05-disappear-for-6-months/
+BUILT IN SILENCE/projects/2026-05-disappear-for-6-months/
 ```
+
+- Root folder ID: `1OpDIl2gCR_LmanNK1Z_pJvG-Jhtnnr1l`
+- Root URL: `https://drive.google.com/drive/folders/1OpDIl2gCR_LmanNK1Z_pJvG-Jhtnnr1l`
 
 ## Narration Voice
 
