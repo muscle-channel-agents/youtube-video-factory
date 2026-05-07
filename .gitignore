@@ -1,0 +1,50 @@
+# Local private notes
+local-tool-settings.private.md
+*.private.md
+
+# Generated media assets
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+*.aiff
+
+# Image exports and design source files
+*.psd
+*.ai
+*.afdesign
+*.fig
+
+# Video editor projects and caches
+*.prproj
+*.drp
+*.dra
+*.fcpxml
+*.osp
+*.kdenlive
+
+# Per-video generated asset folders
+videos/**/assets/
+
+# Tool caches
+node_modules/
+.next/
+dist/
+build/
+.cache/
+tmp/
+temp/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
