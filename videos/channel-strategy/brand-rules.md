@@ -48,6 +48,8 @@
 ## Audio Rules
 
 - Voice should be consistent across videos.
+- ElevenLabs main voice ID: ZthjuvLPty3kTMaNKVKb
+- Voice profile: English, American accent, male, narration category, low and calm pressure.
 - Vary performance by chapter, not by randomly changing voices.
 - BGM supports the speech and should not become the content.
 - Use silence before important final lines.

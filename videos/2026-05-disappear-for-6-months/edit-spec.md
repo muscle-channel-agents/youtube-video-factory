@@ -24,6 +24,8 @@
 
 ## Audio Mix
 
+- Narration tool: ElevenLabs
+- Voice ID: ZthjuvLPty3kTMaNKVKb
 - Narration volume: primary, clear and intimate
 - BGM volume under narration: low, never competing
 - BGM volume during text cuts: slight rise

@@ -48,6 +48,15 @@ videos/2026-05-disappear-for-6-months/
 YouTube Factory/projects/2026-05-disappear-for-6-months/
 ```
 
+## Narration Voice
+
+- Tool: ElevenLabs
+- Language: English
+- Accent: American
+- Gender: Male
+- Category: Narration
+- Voice ID: ZthjuvLPty3kTMaNKVKb
+
 ## Next Production Steps
 
 1. Generate narration in ElevenLabs from `script.md`.

@@ -35,6 +35,7 @@
 
 - Narrator role: Strict older-brother voice that confronts excuses but still believes in the viewer.
 - Voice texture: Low, controlled, warm under the pressure.
+- ElevenLabs main voice ID: ZthjuvLPty3kTMaNKVKb
 - Emotional range: Quiet at the start, sharper in the middle, calm and certain at the end.
 - Common sentence style: Short lines, direct second person, simple but memorable English.
 - Repeated phrases: Build quiet. Return different. / 静かに自分を作れ。 / No announcement. Just evidence. / Lock in.
