@@ -3,7 +3,8 @@
 ## Core Identity
 
 - Channel name: BUILT IN SILENCE
-- Tagline: Build quiet. Return different.
+- Japanese tagline: 静かに自分を作れ。
+- English tagline: Build quiet. Return different.
 - One-sentence concept: A cinematic English motivation channel for people rebuilding themselves in silence.
 - Category: Self-improvement / cinematic motivation / English motivation
 - Primary language: English voice
@@ -36,7 +37,7 @@
 - Voice texture: Low, controlled, warm under the pressure.
 - Emotional range: Quiet at the start, sharper in the middle, calm and certain at the end.
 - Common sentence style: Short lines, direct second person, simple but memorable English.
-- Repeated phrases: Build quiet. Return different. / No announcement. Just evidence. / Lock in.
+- Repeated phrases: Build quiet. Return different. / 静かに自分を作れ。 / No announcement. Just evidence. / Lock in.
 - Words to avoid: guaranteed, everyone, easy, secret hack, instant, rich, viral.
 - Japanese subtitle style: Natural, compact, intense, not literal translation.
 

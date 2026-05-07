@@ -3,7 +3,8 @@
 ## Naming
 
 - Channel name:
-- Tagline:
+- Japanese tagline:
+- English tagline:
 - Default video title pattern:
 - Default thumbnail text pattern:
 - Playlist names:

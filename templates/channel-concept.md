@@ -3,7 +3,8 @@
 ## Core Identity
 
 - Channel name:
-- Tagline:
+- Japanese tagline:
+- English tagline:
 - One-sentence concept:
 - Category:
 - Primary language:

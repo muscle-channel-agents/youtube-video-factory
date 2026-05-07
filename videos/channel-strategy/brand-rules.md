@@ -3,7 +3,8 @@
 ## Naming
 
 - Channel name: BUILT IN SILENCE
-- Tagline: Build quiet. Return different.
+- Japanese tagline: 静かに自分を作れ。
+- English tagline: Build quiet. Return different.
 - Default video title pattern: [Command or transformation] | Cinematic Motivation
 - Default thumbnail text pattern: 1-4 simple English words.
 - Playlist names: Ghost Mode, Discipline, Start Again, You vs You, Prove Them Wrong.
