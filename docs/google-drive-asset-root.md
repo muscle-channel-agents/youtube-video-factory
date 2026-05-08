@@ -7,6 +7,7 @@ Use only this Google Drive folder for generated media assets.
 - Name: BUILT IN SILENCE
 - Folder ID: `1OpDIl2gCR_LmanNK1Z_pJvG-Jhtnnr1l`
 - URL: `https://drive.google.com/drive/folders/1OpDIl2gCR_LmanNK1Z_pJvG-Jhtnnr1l`
+- Local sync path: `C:\Users\mat09\Google Drive\My Drive\BUILT IN SILENCE\`
 
 ## Rule
 
@@ -31,6 +32,12 @@ BUILT IN SILENCE/
     fonts/
   music/
   sfx/
+```
+
+## Current Local Project Path
+
+```text
+C:\Users\mat09\Google Drive\My Drive\BUILT IN SILENCE\projects\2026-05-disappear-for-6-months\
 ```
 
 ## What Goes Here

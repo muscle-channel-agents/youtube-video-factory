@@ -50,6 +50,7 @@ BUILT IN SILENCE/projects/2026-05-disappear-for-6-months/
 
 - Root folder ID: `1OpDIl2gCR_LmanNK1Z_pJvG-Jhtnnr1l`
 - Root URL: `https://drive.google.com/drive/folders/1OpDIl2gCR_LmanNK1Z_pJvG-Jhtnnr1l`
+- Local sync path: `C:\Users\mat09\Google Drive\My Drive\BUILT IN SILENCE\projects\2026-05-disappear-for-6-months\`
 
 ## Narration Voice
 

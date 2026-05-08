@@ -105,6 +105,12 @@ Folder URL:
 https://drive.google.com/drive/folders/1OpDIl2gCR_LmanNK1Z_pJvG-Jhtnnr1l
 ```
 
+Main PC local sync path:
+
+```text
+C:\Users\mat09\Google Drive\My Drive\BUILT IN SILENCE\
+```
+
 Then reference project folders under that root in each video's production files.
 
 ## Recommended Folder Layout
