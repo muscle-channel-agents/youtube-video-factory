@@ -66,11 +66,15 @@ BUILT IN SILENCE/projects/2026-05-disappear-for-6-months/
 ## Next Production Steps
 
 1. Upload or sync narration audio to Google Drive `audio/`.
-2. Generate base images from `generation-prompts.md`.
+2. Continue generating base images from `image-prompts-top10.md`.
 3. Convert selected images to 5-second clips in Kling, Lovart, or similar.
 4. Place clips, text cuts, subtitles, narration, and BGM using `edit-spec.md`.
 5. Create thumbnail with "GO GHOST".
 6. Render draft and run the unchecked quality items.
+
+## Created Image Assets
+
+- S01: `images/S01-forest-entrance.png`
 
 ## Metrics To Track
 
