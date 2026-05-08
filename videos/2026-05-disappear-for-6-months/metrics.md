@@ -6,6 +6,7 @@
 - Published date:
 - URL:
 - Google Drive asset folder: BUILT IN SILENCE/projects/2026-05-disappear-for-6-months/
+- Narration file: `assets/audio/narration-elevenlabs-peter-v3.mp3`
 - Theme: Ghost Mode / Discipline
 - Length: Target 4:25
 - Thumbnail text: GO GHOST

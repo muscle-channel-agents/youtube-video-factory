@@ -10,7 +10,7 @@
 - [ ] Image assets generated
 - [x] Image-to-video prompts completed
 - [ ] Video assets generated
-- [ ] Narration generated
+- [x] Narration generated
 - [ ] BGM selected
 - [x] Timeline JSON created
 - [ ] Remotion/HyperFrames base edit created
@@ -59,10 +59,12 @@ BUILT IN SILENCE/projects/2026-05-disappear-for-6-months/
 - Gender: Male
 - Category: Narration
 - Voice ID: ZthjuvLPty3kTMaNKVKb
+- Local audio file: `assets/audio/narration-elevenlabs-peter-v3.mp3`
+- Original downloaded file: `ElevenLabs_2026-05-07T10_26_17_Peter_pvc_sp93_s39_sb75_v3.mp3`
 
 ## Next Production Steps
 
-1. Generate narration in ElevenLabs from `script.md`.
+1. Upload or sync narration audio to Google Drive `audio/`.
 2. Generate base images from `generation-prompts.md`.
 3. Convert selected images to 5-second clips in Kling, Lovart, or similar.
 4. Place clips, text cuts, subtitles, narration, and BGM using `edit-spec.md`.

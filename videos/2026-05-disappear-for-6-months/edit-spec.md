@@ -43,7 +43,7 @@
     "format": "16:9"
   },
   "assets": {
-    "narration": "assets/audio/narration.mp3",
+    "narration": "assets/audio/narration-elevenlabs-peter-v3.mp3",
     "bgm": "assets/audio/bgm.mp3"
   },
   "scenes": [
