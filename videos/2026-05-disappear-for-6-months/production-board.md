@@ -75,6 +75,7 @@ BUILT IN SILENCE/projects/2026-05-disappear-for-6-months/
 ## Created Image Assets
 
 - S01: `images/S01-forest-entrance.png`
+- S02: `images/S02-tired-determined-face.png`
 
 ## Metrics To Track
 

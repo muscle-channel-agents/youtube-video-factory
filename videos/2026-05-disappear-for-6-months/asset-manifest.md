@@ -11,6 +11,7 @@ C:\Users\mat09\Google Drive\My Drive\BUILT IN SILENCE\projects\2026-05-disappear
 | Scene | File | Status | Notes |
 | --- | --- | --- | --- |
 | S01 | `images/S01-forest-entrance.png` | Created | Adopted first visual direction: dark forest, lone back-view figure, teal fog, wet ground. |
+| S02 | `images/S02-tired-determined-face.png` | Created | Adopted protagonist close-up: phone glow, tired but determined eyes, dark teal room. |
 
 ## Audio
 
@@ -23,3 +24,4 @@ C:\Users\mat09\Google Drive\My Drive\BUILT IN SILENCE\projects\2026-05-disappear
 | Scene | File | Status | Notes |
 | --- | --- | --- | --- |
 | S01 | `video-clips/S01-forest-entrance.mp4` | Pending | Generate from S01 image using image-to-video. |
+| S02 | `video-clips/S02-tired-determined-face.mp4` | Pending | Generate from S02 image using subtle push-in and breathing motion. |
