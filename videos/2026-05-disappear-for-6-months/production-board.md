@@ -7,7 +7,7 @@
 - [x] Japanese subtitle adaptation completed
 - [x] Scene board completed
 - [x] Image prompts completed
-- [ ] Image assets generated
+- [x] Image assets generated
 - [x] Image-to-video prompts completed
 - [ ] Video assets generated
 - [x] Narration generated
@@ -15,7 +15,7 @@
 - [x] Timeline JSON created
 - [ ] Remotion/HyperFrames base edit created
 - [ ] Manual review completed
-- [ ] Thumbnail created
+- [x] Thumbnail created
 - [x] Publish pack completed
 - [x] Quality check completed
 - [ ] Uploaded
@@ -76,6 +76,15 @@ BUILT IN SILENCE/projects/2026-05-disappear-for-6-months/
 
 - S01: `images/S01-forest-entrance.png`
 - S02: `images/S02-tired-determined-face.png`
+- S06: `images/S06-protected-dream.png`
+- S09: `images/S09-phone-face-down.png`
+- S12: `images/S12-foggy-road.png`
+- S15: `images/S15-walking-through-fog.png`
+- S16: `images/S16-empty-gym-work.png`
+- S17: `images/S17-night-study.png`
+- S20: `images/S20-mirror-payoff.png`
+- S22: `images/S22-return-different.png`
+- Thumbnail base: `images/thumbnail-go-ghost-base.png`
 
 ## Metrics To Track
 
