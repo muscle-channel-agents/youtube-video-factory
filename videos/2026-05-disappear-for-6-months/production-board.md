@@ -86,6 +86,13 @@ BUILT IN SILENCE/projects/2026-05-disappear-for-6-months/
 - S22: `images/S22-return-different.png`
 - Thumbnail base: `images/thumbnail-go-ghost-base.png`
 
+## Created Video Assets
+
+- S01 v1: `video-clips/S01-forest-entrance-v1.mp4`
+  - Source: single S01 image
+  - Tool: Kling
+  - Note: Mood fits, but motion is subtle. Consider a v2 using Start/End frames.
+
 ## Metrics To Track
 
 - Published date:

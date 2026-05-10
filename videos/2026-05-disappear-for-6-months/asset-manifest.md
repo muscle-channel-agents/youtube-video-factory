@@ -32,7 +32,7 @@ C:\Users\mat09\Google Drive\My Drive\BUILT IN SILENCE\projects\2026-05-disappear
 
 | Scene | File | Status | Notes |
 | --- | --- | --- | --- |
-| S01 | `video-clips/S01-forest-entrance.mp4` | Pending | Generate from S01 image using image-to-video. |
+| S01 | `video-clips/S01-forest-entrance-v1.mp4` | Created | Kling v1 from single start image. Mood fits, but motion is subtle; consider v2 with Start/End frames. |
 | S02 | `video-clips/S02-tired-determined-face.mp4` | Pending | Generate from S02 image using subtle push-in and breathing motion. |
 | S06 | `video-clips/S06-protected-dream.mp4` | Pending | Generate with slow macro pan, rain movement, and warm light flicker. |
 | S09 | `video-clips/S09-phone-face-down.mp4` | Pending | Generate with one simple phone turn motion and light fading out. |
@@ -42,3 +42,9 @@ C:\Users\mat09\Google Drive\My Drive\BUILT IN SILENCE\projects\2026-05-disappear
 | S17 | `video-clips/S17-night-study.mp4` | Pending | Generate with slow push-in, rain movement, laptop glow, and tiny writing motion. |
 | S20 | `video-clips/S20-mirror-payoff.mp4` | Pending | Generate with slow push-in toward mirror, subtle breathing, and small water movement. |
 | S22 | `video-clips/S22-return-different.mp4` | Pending | Generate with slow tracking behind the figure and warm sunrise light movement. |
+
+## Image-To-Video Notes
+
+- S01 v1 confirms the dark forest mood works.
+- For stronger movement, create paired Start/End frames for key scenes.
+- Use Start/End frames when the action needs clear progression: entering forest, phone turning down, walking deeper, looking up in mirror, walking into sunrise.

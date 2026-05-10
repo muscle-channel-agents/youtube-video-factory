@@ -79,6 +79,20 @@
 - Locked-off shot, only the subject's shoulders move with breath.
 - Slow pull-back revealing the character alone in a large space.
 
+## Kling Start/End Frame Direction
+
+For shots that need clearer movement, use paired Start/End images instead of a single image.
+
+Priority scenes:
+
+- S01: forest entrance -> deeper forest
+- S09: phone glowing -> phone face down
+- S15: fog path -> deeper forest path
+- S20: looking down in mirror -> eyes lifted in mirror
+- S22: dark road -> sunrise road
+
+See `kling-start-end-plan.md` for the current paired-frame plan.
+
 ## Negative Prompt
 
 ```text
